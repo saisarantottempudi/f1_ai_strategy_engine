@@ -16,3 +16,21 @@ data/gold/
 
 # OS files
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+f1/
+
+# Data artifacts
+data/bronze/
+data/silver/
+data/gold/
+
+# FastF1 cache
+.fastf1_cache/
+
+# OS
+.DS_Store

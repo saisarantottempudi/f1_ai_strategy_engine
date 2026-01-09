@@ -1,0 +1,12 @@
+{
+  "race_id": "2023_British_Grand_Prix_R",
+  "driver": "VER",
+  "lap": 12,
+  "lap_time_s": 92.4,
+  "position": 3,
+  "gap_ahead_s": 1.8,
+  "gap_behind_s": 0.9,
+  "tyre_compound": "MEDIUM",
+  "tyre_age_laps": 14,
+  "sc_status": "GREEN"
+}
